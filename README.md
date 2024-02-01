@@ -8,4 +8,6 @@ SECCON CTF 2023 Finals 作問者の一人 [Satoki](https://twitter.com/satoki00)
 - reversing
   - [okihai](reversing/okihai) [4 Solves]  
 
-XXXX  
+問題数が足りず、急遽作問することになりました。  
+Finalsなので難しめの問題を出したと思っていますが、得意ジャンルでないので適切な難易度であったかは不明です。  
+この度はご参加頂き有り難うございました。  
